@@ -1,4 +1,4 @@
-# Expense Tracker 💸
+# Expense Tracker 
 
 A simple expense tracker built using Python and Tkinter.
 
